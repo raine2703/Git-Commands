@@ -40,6 +40,8 @@ git pull
 
 #Push 
 git push -u origin main
+#Push all changes
+it push -u origin --all
 #If remote added, simply?
 git push
 -------------------------------------------------------------------------------------------
