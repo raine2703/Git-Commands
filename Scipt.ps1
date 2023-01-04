@@ -44,6 +44,9 @@ git push -u origin main
 it push -u origin --all
 #If remote added, simply?
 git push
+
+#Clone
+git clone "respository name"
 -------------------------------------------------------------------------------------------
 
 
