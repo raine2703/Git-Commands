@@ -1,1 +1,1 @@
-# Notes from Git Masterclass.
+# Notes from Git Masterclass
