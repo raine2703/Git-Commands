@@ -410,10 +410,3 @@ git push origin --delete branch1
 -------------------------------------------------------------------------------------------
 git push -u <remote repo, e.g. origin> <branch name>
 
-
-
-
-
-
-
-
