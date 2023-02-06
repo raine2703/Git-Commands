@@ -1,1 +1,1 @@
-# Notes from Git Courses
+# Notes from git courses
